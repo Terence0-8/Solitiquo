@@ -1,0 +1,48 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "L'impact de la politique sur l'économie",
+            "summary": "Cet article explore les effets des réformes politiques récentes...",
+            "image": "Exemple.jpg",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Le développement durable en Afrique",
+            "summary": "Un regard sur les initiatives écologiques dans les pays africains...",
+            "image": "Exemple.jpg",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "title": "Les nouveaux défis de la santé publique",
+            "summary": "Analyse des enjeux actuels dans le domaine de la santé publique...",
+            "image": "Exemple.jpg",
+            "link": "#"
+        }
+    ],
+    "podcasts": [
+        {
+            "id": 1,
+            "title": "Les grandes tendances politiques en 2025",
+            "summary": "Un podcast sur les prévisions politiques pour l'année 2025...",
+            "image": "Podcast.jpg",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "L'avenir des médias en Afrique",
+            "summary": "Comment les médias africains s'adaptent aux nouvelles technologies...",
+            "image": "Podcast.jpg",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "title": "Les enjeux de l'éducation numérique",
+            "summary": "Discussion autour de l'impact de la technologie sur l'éducation...",
+            "image": "Podcast.jpg",
+            "link": "#"
+        }
+    ]
+}
